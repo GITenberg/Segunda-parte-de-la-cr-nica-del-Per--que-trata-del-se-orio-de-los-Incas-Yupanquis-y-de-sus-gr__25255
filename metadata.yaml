@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/31190
     wikipedia: http://es.wikipedia.org/wiki/Pedro_Cieza_de_Le%C3%B3n
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25255#Segunda-parte-de-la-cr-nica-del-Per--que-trata-del-se-orio-de-los-Incas-Yupanquis-y-de-sus-gr_
 gutenberg_issued: '2008-04-30'
 gutenberg_type: Text
 identifiers:
